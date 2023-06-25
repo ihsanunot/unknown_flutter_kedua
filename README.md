@@ -1,5 +1,7 @@
 # Belajar Flutter Layout
 
+![preview](https://github.com/ihsanunot/unknown_flutter_kedua/assets/127992374/8bc9a944-f249-4fe3-9fe9-ae03e34c94b8)
+
 - Identifikasi Row dan Column yang dibutuhkan
 - Cek apa layout nya termasuk Grid?
 - Cek Ada Elemen yang Overlapping atau tidak
